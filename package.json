@@ -1,0 +1,24 @@
+{
+  "name": "gamesnl_manager",
+  "version": "1.0.0",
+  "description": "De GamesNL Community Manager Bot het kopiëren van deze bot is niet toegestaan!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "DolfjeGamerNL",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg-binaries": "^4.0.0",
+    "fortnite": "^4.3.2",
+    "ms": "^2.1.2",
+    "opusscript": "0.0.7",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
