@@ -1,12 +1,10 @@
 {
-  "name": "gamesnl_manager",
+  "name": "test-bot",
+  "description": "a really cool app",
   "version": "1.0.0",
-  "description": "De GamesNL Community Manager Bot het kopiëren van deze bot is niet toegestaan!",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon"
-  },
+  "engines": {
+    "node": "12.13.0"
+},
   "author": "DolfjeGamerNL",
   "license": "ISC",
   "dependencies": {
